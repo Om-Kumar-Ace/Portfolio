@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
+  <a href="https://om-kumar-ace.netlify.app/">
   <img src="./src/assets/OmLogo.svg" alt="GregSithole" width="200"></a>
   <br>
   Om Kumar's Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Om Kumar</a>.</h4>
+<h4 align="center">A simple personal website about <a href="https://om-kumar-ace.netlify.app/" target="_blank">Om Kumar</a>.</h4>
 
 <br>
 
