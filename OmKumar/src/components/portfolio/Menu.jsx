@@ -4,6 +4,7 @@ import Work3 from "../../assets/Clone3.png";
 import Work4 from "../../assets/Mgr1.png";
 import Work5 from "../../assets/Mgr2.png";
 import GameOn from "../../assets/GameOn.png";
+import FoodOnPlate from "../../assets/FoodOnPlate";
 
 const Menu = [
 	{
@@ -53,6 +54,14 @@ const Menu = [
 		category: ["Frontend","React"],
 		url: "https://gameonanimatedweb.netlify.app/",
 		repositoryUrl: "https://github.com/Om-Kumar-Ace/GameOn"
+	}
+	{
+		id: 7,
+		image: FoodOnPlate,
+		title: "Food On Plate",
+		category: ["Frontend","React","Backend"],
+		url: "https://food-on-plate.vercel.app//",
+		repositoryUrl: "https://github.com/Om-Kumar-Ace/full-stack-task-management-app"
 	}
 ];
 
