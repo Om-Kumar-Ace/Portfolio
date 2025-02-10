@@ -11,7 +11,7 @@
 
 <br>
 
-![screenshot](./src/assets/screenshot.png)
+![screenshot](./src/assets/screenshots.png)
 
 ## How To Use
 
