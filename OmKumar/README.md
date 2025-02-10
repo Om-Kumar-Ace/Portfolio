@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
+  <img src="./src/assets/OmLogo.svg" alt="GregSithole" width="200"></a>
   <br>
   Om Kumar's Personal Website
   <br>
@@ -11,7 +11,7 @@
 
 <br>
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
+![screenshot](./src/assets/screenshot.png)
 
 ## How To Use
 
@@ -19,10 +19,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone https://github.com/Om-Kumar-Ace/Portfolio.git
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd OmKumar
 
 # Install dependencies
 $ yarn install
